@@ -36,5 +36,4 @@ MoonFansPro is not just a script — it’s your gateway to building a thriving 
 
 <h3>Ready to launch your own creator-powered platform?</h3>
 <p>
-Reach out to us at <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s build your next big venture together!
-</p>
+<p>Contact us at 📩 <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit 🌐 <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. </p>
