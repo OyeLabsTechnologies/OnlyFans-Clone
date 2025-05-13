@@ -3,7 +3,7 @@ OnlyFans clone by Oyelabs helps you launch a subscription-based content platform
 <h3>MOONFANSPRO – Launch Your Subscription Content Platform</h3> 
 
 <p>
-MoonFansPro by Oyelabs is a powerful <a href="https://oyelabs.com/onlyfans-clone/" target="_blank">OnlyFans clone script</a> crafted for creators and entrepreneurs looking to launch their own subscription-based content platform. Whether you're targeting fitness coaches, artists, influencers, or adult content creators, MoonFansPro empowers you to build a branded, secure, and fully monetizable content platform that’s tailored to your niche.
+MoonFansPro by Oyelabs is a powerful <a href="https://oyelabs.com/onlyfans-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">OnlyFans Clone</a> crafted for creators and entrepreneurs looking to launch their own subscription-based content platform. Whether you're targeting fitness coaches, artists, influencers, or adult content creators, MoonFansPro empowers you to build a branded, secure, and fully monetizable content platform that’s tailored to your niche.
 </p>
 
 <p>
