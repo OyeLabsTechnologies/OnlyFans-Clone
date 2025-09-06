@@ -50,7 +50,7 @@ These features create a professional, reliable, and engaging platform for creato
 
 Marketing is key. Highlight how your platform empowers creators to monetize content while providing fans with exclusive material. Use blogs, social media campaigns, and testimonials to communicate the value of your platform and attract both creators and subscribers.  
 
-***Step 4: Build Trust Through Insights** 
+***Step 4: Build Trust Through Insights*** 
 
 Support your platform with real-world insights. Share statistics on the rise of subscription-based content, the growing demand for creator monetization, and how your platform ensures secure transactions. Facts help both creators and fans trust your platform.  
 
