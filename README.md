@@ -1,3 +1,23 @@
+![Version](https://img.shields.io/badge/version-6.8-blue.svg?cacheSeconds=2592000)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/indriver-clone-app-development/">
+    <img src="https://oyelabs.com/wp-content/uploads/2024/10/Readymade-Onlyfans-Clone-script.jpg" alt="Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">Launch OnlyFans Clone</h3>
+
+  <p align="center">
+    A OnlyFans Clone App built with PHP Laravel 10 & Flutter 3.10.
+    <br />
+    <a href="https://oyelabs.com/onlyfans-clone/"><strong>Explore the Product »</strong></a>
+    <br />
+    <br />
 
 
 ### How to Launch Your OnlyFans Clone: A Complete Guide ###
